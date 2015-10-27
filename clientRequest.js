@@ -1,0 +1,18 @@
+{
+	"productName" :	"productName"								
+	"productImageURL" :"google.com.vn"									
+	"amount" :"Mark"									
+	"currency" :"JPY"									
+	"mid" :	"Line Test"								
+	"oneTimeKey" :"POST"									
+	"confirmUrl" :	""								
+	"confirmUrlType" :	"Server"								
+	"checkConfirmUrlBrowser" : "false"									
+	"cancelUrl" : "POST"									
+	"packageName" :	"Android の phishing"								
+	"orderId" :	"POSITIVE_INFINITY"																	
+	"deliveryPlacePhone" : "12334"									
+	"payType" :	"NORMAL"								
+	"langCd" : "ja"									
+	"capture" :	"true"								
+}
